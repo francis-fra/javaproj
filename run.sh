@@ -11,3 +11,6 @@ gradle -q execute_app
 
 # run test
 gradle test
+
+# view structure
+gradlew -q projects
